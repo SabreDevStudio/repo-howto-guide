@@ -54,7 +54,7 @@ Look to the [template README.md](./README%20template.md) for an example outline.
 
 ## Companion Blog Article
 
-Consider adding a companion [blog article](https://blog.developer.sabre.com/) to a source code repo. If you have a sample app the article can take a deeper dive into the technical inner workings. Use it to introduce the source code, offer additional context for why choices were made, point to extended resources.
+Consider adding a companion [blog article](https://blog.developer.sabre.com/) to a source code repo. If you have a sample app the article can take a deeper dive into the technical inner workings. Use it to introduce the source code, offer additional context for why choices were made, and point to extended resources.
 
 Here are some popular examples based around Sabre APIs:
 
