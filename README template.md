@@ -7,8 +7,9 @@
 * Why does this code repo exist
 * How will a person/team/company benefit from learning about it
 * What Sabre APIs/technology does it use
-* How should they think of using it - what's in it for them
-* Show a screenshot typical of what it looks like when running
+* How they should they think of using it 
+* Show a screenshot of it it typically looks running
+* An architectural diagram or flow diagram
 
 ## Getting Started
 
@@ -29,6 +30,7 @@
 * Sabre related
 * Open source related
 * Industry standards
+* People
 
 ## License
 
