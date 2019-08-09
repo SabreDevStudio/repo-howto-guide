@@ -14,8 +14,10 @@ Naming a repo helps a viewer understand two things: what Sabre product it uses, 
 
 Use these two conventions to help make our project repos look like they all belong together:  
 
-  * shish-kabob-case
-  * product-repotype-language or API-language
+  * `shish-kabob-case`
+  * `product-repotype-language` or `api-name-sample-language`
+
+For example this repo name: `get-hotel-details-sample-nodejs`
 
 ## Importance of README.md
 
@@ -54,7 +56,7 @@ Look to the [template README.md](./README%20template.md) for an example outline.
 
 ## Companion Blog Article
 
-Consider adding a companion [blog article](https://blog.developer.sabre.com/) to a source code repo. If you have a sample app the article can take a deeper dive into the technical inner workings. Use it to introduce the source code, offer additional context for why choices were made, and point to extended resources.
+Consider adding a companion [blog article](https://blog.developer.sabre.com/) to a source code repo. If you have a sample app the article can take a deeper dive into the technical inner workings. Use it to introduce the source code, offer additional context for why choices were made, and point to extended learning resources.
 
 Here are some popular examples based around Sabre APIs:
 
